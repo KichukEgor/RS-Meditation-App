@@ -1,1 +1,1 @@
-# RS-Meditation-App
+[Click here](https://kichukegor.github.io/Meditation-App/)
